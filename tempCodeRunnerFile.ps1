@@ -1,1 +1,1 @@
-git add . ; git commit -m 'First commit in master' ; git checkout -b conflictbranch
+git add . ; git commit -m 'Modified file' ; git checkout main
